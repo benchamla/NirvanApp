@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E3A112C2-5956-40F4-B710-8CB54D0CB3C3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Music</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DFE8F00B75C7C9B3924597CCAB0CE9E7575AAC9E</key>
+		<string>https://github.com/benchamla/NirvanApp.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Music.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DFE8F00B75C7C9B3924597CCAB0CE9E7575AAC9E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/benchamla/NirvanApp.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DFE8F00B75C7C9B3924597CCAB0CE9E7575AAC9E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DFE8F00B75C7C9B3924597CCAB0CE9E7575AAC9E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>NirvanApp</string>
+		</dict>
+	</array>
+</dict>
+</plist>
